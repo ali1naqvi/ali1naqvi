@@ -14,6 +14,6 @@ I am a 4th computer science student minoring in mathematics and specializing in 
 
 To reach me, please contact me on Linkedin or email me!
 
-[Linkedin](https://www.linkedin.com/in/ali-naqvi-8b514b1b5/) | [Email] (mailto:alinaqvi8014@gmail.com)
+[Linkedin](https://www.linkedin.com/in/ali-naqvi-8b514b1b5/) | [Email](mailto:alinaqvi8014@gmail.com)
 
 
