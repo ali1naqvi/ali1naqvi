@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning about biomedical deidentification models (NLP).
 - 👯 I’m looking to collaborate on anything related to ML!
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I love drawing, you can find some of my stuff here: 
+- ⚡ Fun fact: I love drawing, you can find some of my stuff here: [art website](https://ali1naqvi.github.io/art-web/)
 
 
 <h3 align="left">Connect with me:</h3>
