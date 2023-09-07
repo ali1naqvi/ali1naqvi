@@ -1,12 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Naqvi</h1>
 
-- 🔭 I’m currently working on several projects for school including my capstone project.
-- 🌱 I’m currently learning about biomedical deidentification models (NLP).
-- 👯 I’m looking to collaborate on anything related to ML!
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: I love drawing, you can find some of my stuff here: [art website](https://ali1naqvi.github.io/art-web/)
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ali-naqvi-8b514b1b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ali-naqvi-8b514b1b5/" height="30" width="40" /></a>
